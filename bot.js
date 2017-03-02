@@ -1,3 +1,5 @@
+'use strict';
+
 const builder = require('botbuilder');
 
 const connector = new builder.ChatConnector({
